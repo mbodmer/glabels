@@ -85,4 +85,14 @@
     </Label-rectangle>
   </Template>
 
+  <!-- =================================================================== -->
+  <!-- Dymo 14681 CD/DVD Labels.                                           -->
+  <!-- =================================================================== -->
+  <Template brand="Dymo" part="14681" size="Other" width="170.079pt" height="181.417pt" description="CD/DVD Labels">
+    <Label-cd id="0" radius="80.787pt" hole="21.260pt" width="161.574pt" height="161.574pt" waste="0pt">
+      <Markup-margin size="0pt"/>
+      <Layout nx="1" ny="1" x0="4.253pt" y0="4.253pt" dx="170.079pt" dy="181.417pt"/>
+    </Label-cd>
+  </Template>
+
 </Glabels-templates>
